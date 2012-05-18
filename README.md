@@ -1,4 +1,4 @@
-= AngeCore -- General information =
+= AngeCore -- Readme information =
 
 Copyright (C) AngelCore 
 
